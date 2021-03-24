@@ -1,4 +1,4 @@
-# build a customer segmentation model
+# Build a customer segmentation model
 
 #### The next step is to build a customer segmentation model. A good customer segmentation model can help target the right people with the right marketing strategy.
 
