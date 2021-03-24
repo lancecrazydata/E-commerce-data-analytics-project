@@ -1,7 +1,6 @@
 # Step 2: Data Cleaning
 
 #### The next step would be data cleaning. The completeness of the datasets needs to be checked first. The time span need to checked in order to match the research boundary. Does the dataset structure look normal? 
-
 ![image](https://user-images.githubusercontent.com/70103049/112313197-b36ee000-8cfb-11eb-9a2a-55c8f113fc7a.png)
 
  ![image](https://user-images.githubusercontent.com/70103049/112313205-b7026700-8cfb-11eb-8ffd-8a34c0b6f214.png)
@@ -16,7 +15,6 @@
 #### Some click-farm transactions should also be excluded for future analysis since it might cause some outliers. However, after “drop_duplicate()”, the maximum number of transactions for a single user is 16, and most of multiple transactions for a single user is below 10, which indicates normal. If we take 12 as the maximum tolerance of multiple transactions for a single user, we can remove the orders which “trans_units” are larger than 12.
 
 ![image](https://user-images.githubusercontent.com/70103049/112313658-3728cc80-8cfc-11eb-8f0a-649aef2bd435.png)
-
 
 #### The next cleaning step is to check if all of the figures are non-negative. Luckily, the number from the data source is all non-negative.
 
