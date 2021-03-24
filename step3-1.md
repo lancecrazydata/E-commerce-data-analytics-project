@@ -13,5 +13,3 @@
 ![image](https://user-images.githubusercontent.com/70103049/112315663-70fad280-8cfe-11eb-8df8-03206b41c6e7.png)
 #### In terms of total monetary, 25% of users only spent 63 dollars in total, whereas 75% spent 183 dollars. The amount is similar to the recency value, which indicates that most of consumers only made orders once.
 ![image](https://user-images.githubusercontent.com/70103049/112315817-9be52680-8cfe-11eb-84ce-962379382257.png)
-
-
