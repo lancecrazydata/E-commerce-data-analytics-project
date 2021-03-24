@@ -1,7 +1,6 @@
 # Olist data analytics project
 
 
-
 ###  E-commernce company has all the data of consumers’ purchasing activities, including exposure,click, browsing, adding to favorite, additional purchase and final payment. It is significant to understand customers and optimize products and processes to meet and exceed customers' expectations.
 
 ### Generally speaking, data annlytics project consists of 4 steps.
