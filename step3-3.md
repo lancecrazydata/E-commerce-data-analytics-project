@@ -39,7 +39,7 @@
 
 ![image](https://user-images.githubusercontent.com/70103049/112319662-65110f80-8d02-11eb-9ee1-8b1f7400763d.png)
 
-#### We can visualize the three index relations. The size of circle represents the support index. The combinations located on the top right corner with larger size means greater for recommendation.
+#### We can visualize the three index relations. The size of circle represents the support index. The combinations located on the top right corner with larger size are more suitable for recommendation.
 
 ![image](https://user-images.githubusercontent.com/70103049/112319754-7bb76680-8d02-11eb-8c91-9f18537b7d34.png)
 
